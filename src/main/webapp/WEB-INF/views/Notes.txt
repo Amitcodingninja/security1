@@ -1,0 +1,9 @@
+1 . Form Based Authentication : Most Basic
+spring.security.user.name=test
+spring.security.user.password=test
+
+
+2. Now we will use Configuration based authentication by using
+ WebSecurityConfigurationAdapter(Deprecated Class)
+
+Replaced by SecurityFilterChain (In USE)
