@@ -7,3 +7,15 @@ spring.security.user.password=test
  WebSecurityConfigurationAdapter(Deprecated Class)
 
 Replaced by SecurityFilterChain (In USE)
+
+➡️ Role Based Authentication (38)
+1.In Memory Authentication (Chhota Application Fixed Employee)
+2.Database Authentication (for dynamic retrieval)  Scalable , Less Memory , Password Encoder)
+
+
+Some times used password dalne pr page open nhi hota hai
+because of password encoder
+
+➡️ CommandLineRunner Automatically chal jata hai sbse pehle
+
+➡️UserDetail service ke pass geter setter ka extra power hai
